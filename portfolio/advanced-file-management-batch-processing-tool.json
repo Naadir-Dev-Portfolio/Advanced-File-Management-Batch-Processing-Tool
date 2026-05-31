@@ -1,0 +1,17 @@
+﻿{
+    "section":  "excelvba",
+    "category":  "vba-macros",
+    "n":  4,
+    "title":  "Advanced File Management \u0026 Batch Processing Tool",
+    "desc":  "A desktop-style Excel/VBA utility for bulk file listing, metadata preview, duplicate detection, formula-driven renaming, moving, archiving, split rules, and audit trail generation.",
+    "code":  "https://github.com/Naadir-Dev-Portfolio/Advanced-File-Management-Batch-Processing-Tool/blob/main/README.md",
+    "details":  "https://github.com/Naadir-Dev-Portfolio/Advanced-File-Management-Batch-Processing-Tool/blob/main/README.md",
+    "tags":  [
+                 "Excel",
+                 "VBA",
+                 "FileSystemObject",
+                 "Batch Processing",
+                 "File Automation"
+             ]
+}
+
